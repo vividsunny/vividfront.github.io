@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const USER_API_BASE_URL = "http://wikipedia/wp-json/react_crud/v1/";
+const USER_API_BASE_URL = "https://wikipedia/wp-json/react_crud/v1/";
 
 console.log(USER_API_BASE_URL);
 
