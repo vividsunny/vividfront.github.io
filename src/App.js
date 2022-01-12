@@ -29,12 +29,12 @@ function App() {
                 </Link>
               </li>
               <li className="nav-item">
-                <Link to={"/adduser"} className="nav-link">
+                <Link to={"/vividfront.github.io/adduser"} className="nav-link">
                   Add User
                 </Link>
               </li>
               <li className="nav-item">
-                <Link to={"/listuser"} className="nav-link">
+                <Link to={"/vividfront.github.io/listuser"} className="nav-link">
                   List User
                 </Link>
               </li>
