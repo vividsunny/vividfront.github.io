@@ -19,12 +19,12 @@ function App() {
       
       <nav className="navbar navbar-expand navbar-dark bg-dark">
           <div className="container">
-            <Link to={"/"} className="navbar-brand">
+            <Link to={"/vividfront.github.io"} className="navbar-brand">
               Crud
             </Link>
             <div className="navbar-nav mr-auto">
               <li className="nav-item">
-                <Link to={"/"} className="nav-link">
+                <Link to={"/vividfront.github.io"} className="nav-link">
                   Home
                 </Link>
               </li>

@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/vividfront.github.io/static/css/main.277b4e22.css",
-    "main.js": "/vividfront.github.io/static/js/main.7f88ed94.js",
+    "main.js": "/vividfront.github.io/static/js/main.1ba9d80b.js",
     "static/js/787.1bc192e6.chunk.js": "/vividfront.github.io/static/js/787.1bc192e6.chunk.js",
     "index.html": "/vividfront.github.io/index.html",
     "main.277b4e22.css.map": "/vividfront.github.io/static/css/main.277b4e22.css.map",
-    "main.7f88ed94.js.map": "/vividfront.github.io/static/js/main.7f88ed94.js.map",
+    "main.1ba9d80b.js.map": "/vividfront.github.io/static/js/main.1ba9d80b.js.map",
     "787.1bc192e6.chunk.js.map": "/vividfront.github.io/static/js/787.1bc192e6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.277b4e22.css",
-    "static/js/main.7f88ed94.js"
+    "static/js/main.1ba9d80b.js"
   ]
 }
