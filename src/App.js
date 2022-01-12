@@ -19,22 +19,22 @@ function App() {
       
       <nav className="navbar navbar-expand navbar-dark bg-dark">
           <div className="container">
-            <Link to={"/vividfront.github.io"} className="navbar-brand">
+            <Link to={"/"} className="navbar-brand">
               Crud
             </Link>
             <div className="navbar-nav mr-auto">
               <li className="nav-item">
-                <Link to={"/vividfront.github.io"} className="nav-link">
+                <Link to={"/"} className="nav-link">
                   Home
                 </Link>
               </li>
               <li className="nav-item">
-                <Link to={"/vividfront.github.io/adduser"} className="nav-link">
+                <Link to={"/adduser"} className="nav-link">
                   Add User
                 </Link>
               </li>
               <li className="nav-item">
-                <Link to={"/vividfront.github.io/listuser"} className="nav-link">
+                <Link to={"/listuser"} className="nav-link">
                   List User
                 </Link>
               </li>
@@ -46,9 +46,9 @@ function App() {
       <div className="container mt-3">
 
           <Routes>
-            <Route exact path="/vividfront.github.io" element={<Home />} />
-            <Route exact path="/vividfront.github.io/adduser" element={<AddUser />} />
-            <Route exact path="/vividfront.github.io/listuser" element={<ListUser />} />
+            <Route exact path="/" element={<Home />} />
+            <Route exact path="/adduser" element={<AddUser />} />
+            <Route exact path="/listuser" element={<ListUser />} />
           </Routes>
 
       </div>
