@@ -46,9 +46,9 @@ function App() {
       <div className="container mt-3">
 
           <Routes>
-            <Route exact path="/" element={<Home />} />
-            <Route exact path="/adduser" element={<AddUser />} />
-            <Route exact path="/listuser" element={<ListUser />} />
+            <Route exact path="/vividfront.github.io" element={<Home />} />
+            <Route exact path="/vividfront.github.io/adduser" element={<AddUser />} />
+            <Route exact path="/vividfront.github.io/listuser" element={<ListUser />} />
           </Routes>
 
       </div>
